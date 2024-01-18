@@ -1,0 +1,4 @@
+Adresa: knihamain.Adresa@214c265e
+Seznam knih:
+Kniha{název='Hobit', autor='J.R.R. Tolkien', početStran=300, žánr='fantasy', hmotnost=500}
+Kniha{název='Válka s Mloky', autor='Karel Čapek', početStran=200, žánr='sci-fi', hmotnost=400}
